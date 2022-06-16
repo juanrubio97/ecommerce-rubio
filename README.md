@@ -1,6 +1,7 @@
 # Sobre el proyecto
 
-Proyecto de Ecommerce por el alumno Juan Cruz Rubio
+Proyecto de Ecommerce de verduleria por el alumno Juan Cruz Rubio. 
+Se puede ver los detalles de los productos, filtrar por categoria y ver todos los productos que se encunetran
 
 # Getting Started with Create React App
 
