@@ -16,6 +16,9 @@ Es un proyecto realizado para el curso de React Js, de CoderHouse. El mismo se t
 
 Juan Cruz Rubio
 
+## Link
+
+https://ecommerce-rubio.netlify.app/
 
 ## Ejecutar localmente
 
@@ -55,4 +58,4 @@ npm run start
 - "react-scripts": "5.0.1"
 - "web-vitals": "^2.1.4"
 
-## Demo
+
